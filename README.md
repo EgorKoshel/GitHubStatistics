@@ -32,5 +32,5 @@ This project allows you to get statistics from the GitHub repository using the R
 - Getting data from the required repository branch, as well as custom processing of the file type list.
 
 ## Tests
-The main methods of business logic are covered by tests using FluentAssertions, Moq, xUnit. Also in the screenshot below you can see the benchmark test data for calculating statistics in asynchronous and synchronous versions.
+The main methods of business logic are covered by tests using Fluent Assertions, Moq, xUnit. Also in the screenshot below you can see the benchmark test data for calculating statistics in asynchronous and synchronous versions.
    ![Benchmark](https://github.com/user-attachments/assets/6d11789f-010e-4bf1-baaa-0d4cd806fb37)
